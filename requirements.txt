@@ -1,0 +1,9 @@
+certifi==2024.8.30
+packaging==24.1
+pygame==2.6.1
+openai==1.12.0
+python-dotenv==1.0.0
+PyOpenGL==3.1.6
+numpy>=1.24.1
+pyaudio==0.2.14
+wave==0.0.2
